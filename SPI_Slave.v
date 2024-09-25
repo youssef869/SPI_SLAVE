@@ -8,9 +8,9 @@
  * Module Name :                       SPI_Slave
  *********************************************************************************************************************************************
  * Describtion :                       SPI (serial perhirpal interface) is one of the most famous interfaces which provides
- *                                     high data rates , here we implement a SPI slave that master will communicate with th
- *                                     en it will communicate with RAM , supported operations are write addres/data and rea
- *                                     d address/data.  
+ *                                     high data rates , here we implement a SPI slave that master will communicate with then
+ *                                     it will communicate with RAM , supported operations are write addres/data and read
+ *                                     address/data.  
  *********************************************************************************************************************************************
 */
 
